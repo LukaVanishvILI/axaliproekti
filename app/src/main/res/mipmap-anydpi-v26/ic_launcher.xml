@@ -1,0 +1,6 @@
+package com.example.classany
+
+    import androidx.appcompat.app.AppCompatActivityimport android.os.Bundleimport android.view.Viewimport android.widget.Button
+
+    class playgame : AppCompatActivity(),View.OnClickListener {private lateinit var button1:Button
+   
